@@ -51,7 +51,7 @@
 [HiRecruit-front](https://github.com/themoment-team/HiRecruit-front)  
 [HiRecruit-server](https://github.com/themoment-team/HiRecruit-server)
 
-> **White Day**
+> **White Day**  
 > 나만의 캔디를 커스텀하고, 달콤한 말을 담아 친구의 캔디머신에 캔디를 보내는 서비스
 
 [whiteday-about](https://github.com/themoment-team/whiteday-about)  
