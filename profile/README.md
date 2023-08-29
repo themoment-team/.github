@@ -1,4 +1,5 @@
-## 더모먼트
+![the_moment](https://github.com/info-dsm/.github/assets/106712562/3ee8b525-1411-4c97-b431-0efae6b1a1ca)
+
 
 ### 운영 중인 서비스
 
