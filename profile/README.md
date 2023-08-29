@@ -16,9 +16,7 @@
 > **EveryGSM**  
 > 광주소프트웨어마이스터고등학교의 프로젝트들을 한 곳에 모아 트래픽을 집중 시키기 위한 서비스
 
-[https://every.hellogsm.kr/](https://every.hellogsm.kr/)
-
----
+[https://every.hellogsm.kr/](https://every.hellogsm.kr/)  
 
 ### 운영 종료된 서비스
 
