@@ -1,12 +1,11 @@
 ![the_moment](https://github.com/info-dsm/.github/assets/106712562/3ee8b525-1411-4c97-b431-0efae6b1a1ca)
 
-
 ### 운영 중인 서비스
 
 > **Hello, GSM**  
 > 광주소프트웨어마이스터고등학교 입학 지원 서비스
 
-[https://hellogsm.kr/](https://hellogsm.kr/)
+[https://www.hellogsm.kr/](https://hellogsm.kr/)
 
 > **Official GSM**  
 > 광주소프트웨어마이스터고등학교 공식 홈페이지
@@ -16,7 +15,7 @@
 > **EveryGSM**  
 > 광주소프트웨어마이스터고등학교의 프로젝트들을 한 곳에 모아 트래픽을 집중 시키기 위한 서비스
 
-[https://every.hellogsm.kr/](https://every.hellogsm.kr/)  
+[https://every.hellogsm.kr/](https://every.hellogsm.kr/)
 
 ### 운영 종료된 서비스
 
