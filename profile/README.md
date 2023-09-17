@@ -13,7 +13,7 @@
 [https://official.hellogsm.kr/](https://official.hellogsm.kr/)
 
 **EveryGSM**  
-광주소프트웨어마이스터고등학교의 프로젝트들을 한 곳에 모아 트래픽을 집중 시키기 위한 서비스
+흩어진 교내 프로젝트를 하나로 연결해주는 서비스
 
 [https://every.hellogsm.kr/](https://every.hellogsm.kr/)
 
