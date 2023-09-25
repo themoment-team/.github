@@ -13,7 +13,7 @@
 [https://official.hellogsm.kr/](https://official.hellogsm.kr/)
 
 **EveryGSM**  
-흩어진 교내 프로젝트를 하나로 연결해주는 서비스
+교내 프로젝트를 하나로 연결해주는 서비스
 
 [https://every.hellogsm.kr/](https://every.hellogsm.kr/)
 
