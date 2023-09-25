@@ -5,7 +5,7 @@
 **Hello, GSM**  
 광주소프트웨어마이스터고등학교 입학 지원 서비스
 
-[https://www.hellogsm.kr/](https://hellogsm.kr/)
+[https://www.hellogsm.kr/](https://www.hellogsm.kr/)
 
 **Official GSM**  
 광주소프트웨어마이스터고등학교 공식 홈페이지
