@@ -17,6 +17,11 @@
 
 [https://every.hellogsm.kr/](https://every.hellogsm.kr/)
 
+**GSM-Networking**  
+광주소프트웨어마이스터고등학교 네트워킹 서비스
+
+[https://www.gsm-networking.com/](https://www.gsm-networking.com/)
+
 ### 운영 종료된 서비스
 
 **학교가 불편한 순간**  
